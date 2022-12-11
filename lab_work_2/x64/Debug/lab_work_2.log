@@ -1,2 +1,26 @@
 ﻿  lab_work_2.cpp
+D:\учеба\C++\lab_work_2\lab_work_2\Matrix.h(53,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\учеба\C++\lab_work_2\lab_work_2\Matrix.h(51): message : во время компиляции функции-члена класс шаблон "Matrix<int>::Matrix(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+D:\учеба\C++\lab_work_2\lab_work_2\lab_work_2.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<int>::Matrix(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+D:\учеба\C++\lab_work_2\lab_work_2\lab_work_2.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<int>"
+D:\учеба\C++\lab_work_2\lab_work_2\Matrix.h(39,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\учеба\C++\lab_work_2\lab_work_2\Matrix.h(37): message : во время компиляции функции-члена класс шаблон "Matrix<int>::Matrix(std::initializer_list<std::initializer_list<T>>)"
+          with
+          [
+              T=int
+          ]
+D:\учеба\C++\lab_work_2\lab_work_2\lab_work_2.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "Matrix<int>::Matrix(std::initializer_list<std::initializer_list<T>>)"
+          with
+          [
+              T=int
+          ]
+D:\учеба\C++\lab_work_2\lab_work_2\Matrix.h(40,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
   lab_work_2.vcxproj -> D:\учеба\C++\lab_work_2\x64\Debug\lab_work_2.exe
